@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-10T15:53:21.995338436+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 1f1a5f9c3371ef942d18bf0590f5a55d24b0fa8647d2fe748e31e7082680b4ca
+    name: my-nginx
+    type: application
+    urls:
+    - https://slathas24.github.io/helm-charts/my-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-10T15:53:21.994323654+05:30"
